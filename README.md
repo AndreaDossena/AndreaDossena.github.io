@@ -3,10 +3,9 @@ Progetto scuola
 
 <html>
 <head>
-<title> ciao </title>
+<title> L'architettura dell'Ottocento </title>
 </head>
 <body>
-<h1> Brancar </h1>
-<p> minchia frate faccio after popopopopopo </p>
+<p> Nella prima metà dell'Ottocento, artisti e letterati riconobbero nel Medioevo una straordinaria fonte d'ispirazione, in quanto periodo di formazione del mondo figurativo cristiano. </p>
 </body>
 </html>
